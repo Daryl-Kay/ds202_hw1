@@ -1,0 +1,39 @@
+---
+title: "ds202 partner thing"
+author: Saketh Jonnadula
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+Question 1: Your (the Partner’s) full name and GitHub username.
+```
+Answer: My name is Saketh Jonnadula and my github username is Saketh3
+```
+
+Question 2: What did the Owner do in the most recent commit? What is the commit ID?
+
+Answer: The last thing Daryl commited was both his HTML and his rmd files and the commit id is **fa2092ae5717ccf29c70ae144a025aa14bb120a0**
+
+Question 3: Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+```
+Answer: I am able to Knit his rmd file and there were no errors
+```
+
+Question 4: Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier
+```
+Answer: No errors or any difficulties just make sure you remember the git commands so its easy to navigate git.
+```
+
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
